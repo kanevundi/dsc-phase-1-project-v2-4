@@ -34,23 +34,21 @@ I gathered reliable data from trustworthy sources and eliminated irrelevant data
 ## 4. Results
 
 
-![Distribution of films released per month.png](./images/Distribution%20of%20films%20released%20per%20month.png)
+![Production Budget vs Worldwide gross.png](./images/Production%20Budget%20vs%20Worldwide%20gross.png)
 
+[Production Budget vs Return on Investment.png](./images/Production%20Budget%20vs%20Return%20on%20Investment.png)
 
 ![Average ROI per Month.png](./images/Average%20ROI%20per%20Month.png)
 
+![Distribution of films released per month.png](./images/Distribution%20of%20films%20released%20per%20month.png)
 
-![Average ROI by Genre.png](./images/Average%20Vote%20by%20Genre.png)
+![Average ROI by Genre.png](./images/Average%20ROI%20by%20Genre.png)
 
+![Number of Movies per Genre.png](./images/Number%20of%20Movies%20per%20Genre.png)
 
 ![Most Popular Genres.png](./images/Most%20Popular%20Genres.png)
 
-
-![Production Budget vs Worldwide gross.png](.\images/Production%20Budget%20vs%20Worldwide%20gross.png)
-
-
-
-
+![Average Vote by Genre](./images/Average%20Vote%20by%20Genre.png)
 
 
 
