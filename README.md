@@ -11,6 +11,7 @@ The potential business problem for Microsoft in deciding to enter the original v
 - investing significantly in content development, talent acquisition, and marketing,
 - Gaining deep understanding of audience preferences and trends,
 - Deciding on a monetization strategy that balances the costs of content creation with revenue streams such as subscriptions or advertising.
+
 I based my analysis on 3 major factors
 
 - When is the most favorable month of the year to release a movie?
