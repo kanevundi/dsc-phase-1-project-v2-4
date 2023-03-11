@@ -1,4 +1,4 @@
-![microsoft.png](attachment:microsoft.png)
+![microsoft.png](./images/microsoft.png)
 
 
 # Microsoft Film Industry Analysis
@@ -16,7 +16,7 @@ I based my analysis on 3 major factors
 
 - When is the most favorable month of the year to release a movie?
 - What is the relationship between production cost and revenues?
-- What type of genre are most popular?
+- What type of genres are most popular?
 
 ## 2. Data Understanding
 This analysis utilizes datasets acquired from three movie websites, namely Box Office Mojo, The Numbers, and TMDB.
