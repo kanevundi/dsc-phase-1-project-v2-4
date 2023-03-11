@@ -1,9 +1,11 @@
 ![microsoft.png](attachment:microsoft.png)
-Microsoft Film Industry Analysis
-Overview
+
+
+# Microsoft Film Industry Analysis
+## Overview
 As a result of the rise in original film production in mega companies, Microsoft has tasked us with the responsibility to appraise her of the movie industry outlook before it climbs on the bandwagon. We used the return on investment as a measure to gauge the profitability of particular gernres, previewed the month of release of those perticular movies, looked into the genres that were most popular and those that had high viewer votes so we could come up with conclusions.
 
-1. Business Problem
+## 1. Business Problem
 The potential business problem for Microsoft in deciding to enter the original video content space is determining how to create content that will stand out from competitors and attract and retain viewers. With established players such as Netflix and Amazon already producing stellar original content, Microsoft will need to differentiate itself and create compelling content that resonates with viewers to gain a foothold in the market by-
 
 - investing significantly in content development, talent acquisition, and marketing,
@@ -11,11 +13,11 @@ The potential business problem for Microsoft in deciding to enter the original v
 - Deciding on a monetization strategy that balances the costs of content creation with revenue streams such as subscriptions or advertising.
 I based my analysis on 3 major factors
 
-1 When is the most favorable month of the year to release a movie?
-2. What is the relationship between production cost and revenues?
-3. What type of genre are most popular?
+- When is the most favorable month of the year to release a movie?
+- What is the relationship between production cost and revenues?
+- What type of genre are most popular?
 
-2. Data Understanding
+## 2. Data Understanding
 This analysis utilizes datasets acquired from three movie websites, namely Box Office Mojo, The Numbers, and TMDB.
 
 The first dataset, bom.movie_gross.csv, has five columns comprising of movie titles, studios, financial incomes both domestic and foreign and the release year.
