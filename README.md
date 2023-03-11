@@ -6,7 +6,7 @@
 As a result of the rise in original film production in mega companies, Microsoft has tasked us with the responsibility to appraise her of the movie industry outlook before it climbs on the bandwagon. We used the return on investment as a measure to gauge the profitability of particular gernres, previewed the month of release of those perticular movies, looked into the genres that were most popular and those that had high viewer votes so we could come up with conclusions.
 
 ## 1. Business Problem
-The potential business problem for Microsoft in deciding to enter the original video content space is determining how to create content that will stand out from competitors and attract and retain viewers. With established players such as Netflix and Amazon already producing stellar original content, Microsoft will need to differentiate itself and create compelling content that resonates with viewers to gain a foothold in the market by-
+The potential business problem for Microsoft in deciding to enter the original video content space is determining how to create content that will stand out from competitors and attract and retain viewers. With established players such as Sony and Disney already producing stellar original content, Microsoft will need to differentiate itself and create compelling content that resonates with viewers to gain a foothold in the market by-
 
 - investing significantly in content development, talent acquisition, and marketing,
 - Gaining deep understanding of audience preferences and trends,
@@ -33,25 +33,60 @@ I gathered reliable data from trustworthy sources and eliminated irrelevant data
 
 ## 4. Results
 
+Based on the scatter plot analysis, the worldwide gross tends to increase as production budget increases.
 
 ![Production Budget vs Worldwide gross.png](./images/Production%20Budget%20vs%20Worldwide%20gross.png)
 
 
+### ROI
+
+Based on the scatter plot analysis, it is evident that there exists an inverse correlation between the production budget and the RoI, however, the relationship between the two is not linear. Specifically, for budgets ranging from 0 to 100 million dollars, there is a negative correlation between the RoI and the production budget. However, for budgets ranging from 100 to 300 million dollars, there seems to be no clear correlation between the two variables. 
+
 ![Production Budget vs Return on Investment.png](./images/Production%20Budget%20vs%20Return%20on%20Investment.png)
+
 
 
 ![Average ROI per Month.png](./images/Average%20ROI%20per%20Month.png)
 
 ![Distribution of films released per month.png](./images/Distribution%20of%20films%20released%20per%20month.png)
 
+
+Genres with the highest number of movies were Drama, Action, Comedy, Adventure and  Thriller however, genres such us History, Music, Mystrery and Thriller have a comparatively high ROI and low production and the reason behind it could be explained that these movies had fewer movies classified under them. Therefore ROI could not pinpoint the most yeilding genres to explore. 
+
 ![Average ROI by Genre.png](./images/Average%20ROI%20by%20Genre.png)
 
 ![Number of Movies per Genre.png](./images/Number%20of%20Movies%20per%20Genre.png)
 
+### Popularity
+
+I examined each movie in TMDB and categorized them according to their respective genres. Based on my analysis, I identified the seven most commonly occurring genres, which are 
+1. Adventure
+2. Action
+3. Fantasy
+4. Science Fiction
+5. War
+
 ![Most Popular Genres.png](./images/Most%20Popular%20Genres.png)
+
+After analyzing the data, I determined that the top five genres with the highest average rating (in terms of stars) are 
+1. Music
+2. History
+3. War
+4. Animation
+5. Drama
 
 ![Average Vote by Genre](./images/Average%20Vote%20by%20Genre.png)
 
+### Competitiveness
+
+The top 5 studios in terms of gross income are
+1. Walt Disney Studios
+2. 20th Century Fox
+3. Universal Pictures
+4. Warner Bros. Pictures
+5. Sony Pictures Entertainment (SPE)
+
+![Top 10 Studios by Total Gross (2013-2018)](./images/Top%2010%20Studios%20by%20Total%20Gross%20(2013-2018).png)
 
 
 
