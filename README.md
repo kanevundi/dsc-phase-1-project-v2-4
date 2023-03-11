@@ -36,7 +36,9 @@ I gathered reliable data from trustworthy sources and eliminated irrelevant data
 
 ![Production Budget vs Worldwide gross.png](./images/Production%20Budget%20vs%20Worldwide%20gross.png)
 
-[Production Budget vs Return on Investment.png](./images/Production%20Budget%20vs%20Return%20on%20Investment.png)
+
+![Production Budget vs Return on Investment.png](./images/Production%20Budget%20vs%20Return%20on%20Investment.png)
+
 
 ![Average ROI per Month.png](./images/Average%20ROI%20per%20Month.png)
 
