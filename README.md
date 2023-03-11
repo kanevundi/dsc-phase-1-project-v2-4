@@ -26,3 +26,36 @@ The first dataset, bom.movie_gross.csv, has five columns comprising of movie tit
 The second dataset, tn.movie_budgets.csv, contains information on released films, including their names, release dates, and financial data such as production budget and worldwide gross. The key variable for this dataset is the ROI, and the monetary data columns are the primary reason for selecting this dataset.
 
 The third dataset, tmdb.movies.csv, contains genre codes, original language of the movies, original movie titles, popularity metrics, dates in which the movies were released, and information on the votes. I used this dataset to map genre codes to genre names obtained from the same website so that I could see which genres are more trending.
+
+## 3. Methods
+
+I gathered reliable data from trustworthy sources and eliminated irrelevant data columns. I replaced any missing data with a value of 0. Additionally, I ensured that any information I used was from reputable sources and used both descriptive statistics and visual aids to identify patterns and important factors that contribute to successful movies. This methodology was suitable for examining trends in the film industry and identifying characteristics shared by high-earning movies, so I could provide well-informed suggestions.
+
+## 4. Results
+
+
+![Distribution of films released per month.png](./images/Distribution%20of%20films%20released%20per%20month.png)
+
+
+![Average ROI per Month.png](./images/Average%20ROI%20per%20Month.png)
+
+
+![Average ROI by Genre.png](./images/Average%20Vote%20by%20Genre.png)
+
+
+![Most Popular Genres.png](./images/Most%20Popular%20Genres.png)
+
+
+![Production Budget vs Worldwide gross.png](.\images/Production%20Budget%20vs%20Worldwide%20gross.png)
+
+
+
+
+
+
+
+
+
+
+
+
