@@ -44,14 +44,14 @@ Based on the scatter plot analysis, it is evident that there exists an inverse c
 
 ![Production Budget vs Return on Investment.png](./images/Production%20Budget%20vs%20Return%20on%20Investment.png)
 
-
+The movies released on the month of April had the highest ROI followed by September and July. Contrastingly, April and September trail last when it comes to the number of films released on those months. This explains why they have a higher ROI. July seems to be an interesting month for movie release since movies released in July have a relatively high ROI.
 
 ![Average ROI per Month.png](./images/Average%20ROI%20per%20Month.png)
 
 ![Distribution of films released per month.png](./images/Distribution%20of%20films%20released%20per%20month.png)
 
 
-Genres with the highest number of movies were Drama, Action, Comedy, Adventure and  Thriller however, genres such us History, Music, Mystrery and Thriller have a comparatively high ROI and low production and the reason behind it could be explained that these movies had fewer movies classified under them. Therefore ROI could not pinpoint the most yeilding genres to explore. 
+Genres with the highest number of movies were Drama, Action, Comedy, Adventure and  Thriller. However, genres such us History, Music, Mystrery and Thriller have a comparatively high ROI and low production and the reason behind it could be explained that these movies had fewer movies classified under them. Therefore ROI could not pinpoint the most yeilding genres to explore. 
 
 ![Average ROI by Genre.png](./images/Average%20ROI%20by%20Genre.png)
 
@@ -89,6 +89,14 @@ The top 5 studios in terms of gross income are
 ![Top 10 Studios by Total Gross (2013-2018)](./images/Top%2010%20Studios%20by%20Total%20Gross%20(2013-2018).png)
 
 
+## Conclusion
+
+This analysis leads to the following recommendations for the types of films that are the best performing in the box office:
+- Microsoft could obtain their intellectual property rights from any of this top movie studios, including Walt Disney, Universal Pictures, Warner Brothers, 21st Century Fox, and Sony Pictures Entertainment since it has no prior experience in film production.
+- The Production Budget of a film has a weak positive correlation with its return on investment.
+- The Worldwide Gross of a film has strong positive correlation with Production Budget. 
+- Movies released in July are more likely to yield a higher return on investment.
+- 'Horror' and 'Music' genres are more likely to have a higher return on investment but 'Action' and 'Adventure' films are the top most popular genres. Exploring the popularity of genres gives Microsoft way forward.
 
 
 
