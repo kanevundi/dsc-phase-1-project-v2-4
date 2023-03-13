@@ -59,7 +59,7 @@ Genres with the highest number of movies were Drama, Action, Comedy, Adventure a
 
 ### Popularity
 
-I examined each movie in TMDB and categorized them according to their respective genres. Based on my analysis, I identified the seven most commonly occurring genres, which are 
+I examined each movie in TMDB and categorized them according to their respective genres. Based on my analysis, I identified the five most commonly occurring genres, which are 
 1. Adventure
 2. Action
 3. Fantasy
